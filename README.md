@@ -5,8 +5,7 @@ A Chrome extension that automatically scrolls web pages with a natural, human-li
 [Chrome Extension Link](https://chromewebstore.google.com/detail/auto-scroll/cclcciliebgalipkdjgiiekkachkemio)
 
 <img width="1280" height="800" alt="auto-scroll-1-1280" src="https://github.com/user-attachments/assets/1a934690-ccae-463f-9245-65f466720cb7" />
-
-<img width="1156" height="1012" alt="錄製內容 2026-04-30 003742" src="https://github.com/user-attachments/assets/17fcca33-b2a5-48ae-90a5-e0c4439d28cc" />
+<img width="1156" height="786" alt="錄製內容 2026-04-30 004423" src="https://github.com/user-attachments/assets/3acb32c1-b466-49eb-85f0-8856b468ef99" />
 
 
 
